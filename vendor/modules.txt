@@ -1,0 +1,2 @@
+# github.com/anhao/go-ernie v1.0.9
+## explicit; go 1.18
